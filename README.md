@@ -5,23 +5,27 @@
 Technologies I Love
 <br><br>
 :blossom: React <br>
+:blossom: React Native<br>
 :blossom: Python <br>
 :blossom: Machine Learning <br>
 :blossom: Data Science<br>
 :blossom: Frontend Web Development<br>
 :blossom: Arduino<br>
-</h4>
-<br>
-<p align="center">
-<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=busra4&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=40,240046,d8315b">
-</p> 
-
- <br><h4 align="center"> <img  src="confused_dog.gif" width="50" height="50"/>  My most used languages :</h4> <br>
-<p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=busra4&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="busra4"/>
  
+</h4>
+
+<p alignItems="center">
+
  </p> 
-
-
-<br><h4 align="center"> <img height="40" src="rainbow_blobpray.gif"/> snake eating my contributions : </h4>
+ <br><h4 align="center"> <img height="40" src="rainbow_blobpray.gif"/> snake eating my contributions : </h4>
  
 ![snake gif](https://github.com/busra4/busra4/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+<br> <h4> My Github stats :</h4> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=busra4&show_icons=true&theme=transparent) <br>
+
+<br> <h4> <img  src="confused_dog.gif" width="50" height="50"/> most used languages :</h4> 
+<a >
+<img alignItems="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> 
+
+</a>
