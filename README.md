@@ -4,13 +4,7 @@
 <h4 align="center">
 Technologies I Love
 <br><br>
-:blossom: React <br>
-:blossom: React Native<br>
-:blossom: Python <br>
-:blossom: Machine Learning <br>
-:blossom: Data Science<br>
-:blossom: Frontend Web Development<br>
-:blossom: Arduino<br>
+
  
 </h4>
 
