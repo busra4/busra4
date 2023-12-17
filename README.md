@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Büşra 👋 </h1>
-<h4 align="center"> 💻I am a Software Engineering student.</h4>
 <h4 align="center">🌱 I'm trying to be Front End Developer.</h4>
 <h4 align="center">
 Technologies I Love
