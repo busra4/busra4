@@ -24,5 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=busra4&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
-![snake gif](https://github.com/busra4/busra4/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<!-- ![snake gif](https://github.com/busra4/busra4/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)  -->
 
